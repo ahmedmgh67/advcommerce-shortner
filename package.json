@@ -1,0 +1,16 @@
+{
+  "name": "shortener",
+  "baseUrl": "https://l.ahmedgamal.ga",
+  "private": true,
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "netlify-shortener": "^1.0.1"
+  },
+  "bin": {
+    "shorten": "cli.js"
+  }
+}

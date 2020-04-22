@@ -1,11 +1,10 @@
 {
   "name": "shortener",
-  "baseUrl": "https://l.ahmedgamal.ga",
+  "baseUrl": "https://l.adv-commerce.com",
   "private": true,
   "scripts": {
     "shorten": "netlify-shortener"
   },
-  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
   "license": "MIT",
   "devDependencies": {
     "netlify-shortener": "^1.0.1"
